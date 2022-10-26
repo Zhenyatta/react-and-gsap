@@ -1,2 +1,2 @@
-# Here is a msall landing with some animations :)
+# Here is a smoll landing with some animations :)
 
