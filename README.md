@@ -1,2 +1,2 @@
-# Here is a smoll landing app with some AWESOME animations :)
+# Here is a small landing app with some AWESOME animations :)
 
